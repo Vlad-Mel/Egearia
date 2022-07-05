@@ -1,0 +1,6 @@
+Для корректной работы в React установи следующие зависимости:
+
+npm install @headlessui/react @heroicons/react
+
+Дополнительная информация по документации:
+https://tailwindui.com/documentation
